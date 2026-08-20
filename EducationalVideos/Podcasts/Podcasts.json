@@ -1,0 +1,83 @@
+[
+  {
+    "id": "v1",
+    "title": "سلسلة تذوق العبادات - (1) الصلاة | مع د. أحمد العربي",
+    "speaker": "فاهم بودكاست",
+    "duration": "02:12:48",
+    "category": "سلسلة تذوق العبادات",
+    "description": "شرح حديث بني الإسلام على خمس: الشهادتان، الصلاة، الزكاة، الصوم، والحج.",
+    "videoUrl": "https://www.youtube.com/watch?v=63_AOCldyXo&t=1s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/63_AOCldyXo/maxresdefault.jpg"
+  },
+  {
+    "id": "v2",
+    "title": "سلسلة تذوق العبادات - (2) القرآن | مع د. أحمد العربي",
+    "speaker": "فاهم بودكاست",
+    "duration": "01:49:16",
+    "category": "سلسلة تذوق العبادات",
+    "description": "حديث جبريل الذي يوضح مراتب الدين: الإسلام، الإيمان، والإحسان.",
+    "videoUrl": "https://www.youtube.com/watch?v=hK-9Be0prrA&t=2775s",
+    "thumbnailUrl": "https://i.ytimg.com/vi/hK-9Be0prrA/hq720.jpg"
+  },
+  {
+    "id": "v3",
+    "title": "سلسلة تذوق العبادات - (3) الدعاء | مع د. أحمد العربي",
+    "speaker": "فاهم بودكاست",
+    "duration": "01:25:49",
+    "category": "سلسلة تذوق العبادات",
+    "description": "يوضح الحديث أن الإيمان يتكون من شعب كثيرة، أعلاها قول لا إله إلا الله.",
+    "videoUrl": "https://www.youtube.com/watch?v=si994Z9BAr8&list=PL5tyAOHO2ckcm6Coo4MbMPL7BfbBpom9_&index=4",
+    "thumbnailUrl": "https://i.ytimg.com/vi/si994Z9BAr8/maxresdefault.jpg"
+  },
+  {
+    "id": "v4",
+    "title": "سلسلة تذوق العبادات - (4) الذكر | مع د. أحمد العربي",
+    "speaker": "فاهم بودكاست",
+    "duration": "01:42:26",
+    "category": "سلسلة تذوق العبادات",
+    "description": "يبين الحديث الحالات الثلاث التي يجوز فيها قتل المسلم: النفس بالنفس، والثيب الزاني، والتارك لدينه.",
+    "videoUrl": "https://www.youtube.com/watch?v=nkil1U1GxdA&list=PL5tyAOHO2ckcm6Coo4MbMPL7BfbBpom9_&index=5",
+    "thumbnailUrl": "https://i.ytimg.com/vi/nkil1U1GxdA/maxresdefault.jpg"
+  },
+{
+    "id": "v5",
+    "title": "سلسلة لازم تتحرر - (1) التحرر من الغفلة | مع الشيخ/ أمجد سمير",
+    "speaker": "فاهم بودكاست",
+    "duration": "01:39:08",
+    "category": "سلسلة لازم تتحرر",
+    "description": "",
+    "videoUrl": "https://www.youtube.com/watch?v=agFMbV32JIc&list=PLSFJcWy6euuAZPTasEUJRSrKEp85h6HPY&index=1&t=2s&pp=iAQB",
+    "thumbnailUrl": "https://i.ytimg.com/vi/agFMbV32JIc/maxresdefault.jpg"
+  },
+{
+    "id": "v6",
+    "title": "سلسلة لازم تتحرر - (2) التحرر من التفاهة | مع الشيخ/ أمجد سمير",
+    "speaker": "فاهم بودكاست",
+    "duration": "01:25:49",
+    "category": "سلسلة لازم تتحرر",
+    "description": "",
+    "videoUrl": "https://www.youtube.com/watch?v=DdxrQV_bkkY&list=PLSFJcWy6euuAZPTasEUJRSrKEp85h6HPY&index=2&pp=iAQB",
+    "thumbnailUrl": "https://i.ytimg.com/vi/DdxrQV_bkkY/mqdefault.jpg"
+  },
+{
+    "id": "v7",
+    "title": "سلسلة لازم تتحرر - (3) التحرر من سلوك القطيع | مع الشيخ/ أمجد سمير",
+    "speaker": "فاهم بودكاست",
+    "duration": "01:25:49",
+    "category": "سلسلة لازم تتحرر",
+    "description": "",
+    "videoUrl": "https://www.youtube.com/watch?v=f8croUJLd3Y&list=PLSFJcWy6euuAZPTasEUJRSrKEp85h6HPY&index=3&pp=iAQB",
+    "thumbnailUrl": "https://i.ytimg.com/vi/f8croUJLd3Y/maxresdefault.jpg"
+  },
+{
+    "id": "v8",
+    "title": "سلسلة لازم تتحرر - (4) التحرر من العادة | مع الشيخ/ أمجد سمير",
+    "speaker": "فاهم بودكاست",
+    "duration": "01:25:49",
+    "category": "سلسلة لازم تتحرر",
+    "description": "",
+    "videoUrl": "https://www.youtube.com/watch?v=-W6ijtUgXiU&list=PLSFJcWy6euuAZPTasEUJRSrKEp85h6HPY&index=4&pp=iAQB",
+    "thumbnailUrl": "https://i.ytimg.com/vi/-W6ijtUgXiU/hqdefault.jpg"
+  }
+]
+

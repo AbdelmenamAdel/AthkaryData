@@ -1,0 +1,34 @@
+[
+  {
+    "id": "v1",
+    "title": "نحن مع القرآن على أربعة أصناف ( منصور السالمي ونايف الصحفي )",
+    "speaker": "الشيخ منصور السالمي والشيخ نايف الصحفي",
+    "duration": "12:48",
+    "category": "حلقات الذكر مع الشيخ منصور السالمي",
+    "description": "يبين الحديث الحالات الثلاث التي يجوز فيها قتل المسلم: النفس بالنفس، والثيب الزاني، والتارك لدينه.",
+    "videoUrl": "https://www.youtube.com/watch?v=YrPrdBB3Gw8",
+    "thumbnailUrl": "assets/images/mans_and_naif.jpg"
+  },
+  {
+    "id": "v2",
+    "title": "أجمل و أروع صوت مع الشيخ منصور السالمي",
+    "speaker": "الشيخ منصور السالمي",
+    "duration": "24:22",
+    "category": "حلقات الذكر مع الشيخ منصور السالمي",
+    "description": "",
+    "videoUrl": "https://www.youtube.com/watch?v=YrPrdBB3Gw8",
+    "thumbnailUrl": "assets/images/mansour.jpg"
+  },
+{
+    "id": "v3",
+    "title": "اركب معنا : محاضرة للشيخين نايف الصحفي و منصور السالمي",
+    "speaker": "الشيخ منصور السالمي والشيخ نايف الصحفي",
+    "duration": "01:31:31",
+    "category": "كتاب الحديث (1)",
+    "description": "يوضح الحديث أن الإيمان يتكون من شعب كثيرة، أعلاها قول لا إله إلا الله.",
+    "videoUrl": "https://www.youtube.com/watch?v=AhBBvXaGnTQ&list=PLjYy0HfAemfW4Rl_SnIBFndBVtYCGJRgl",
+    "thumbnailUrl": "assets/images/mans_and_naif.jpg"
+  }
+]
+
+

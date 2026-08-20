@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "categories": [
+    {
+      "icon": "menu_book_rounded",
+      "titleAr": "القرآن الكريم والتلاوة",
+      "titleEn": "Holy Quran & Recitation",
+      "features": [
+        {
+          "icon": "headset_rounded",
+          "titleAr": "محرك صوتي متطور",
+          "titleEn": "Advanced Audio Engine",
+          "descAr": "استماع بدون تقطيع (Gapless) مع إمكانية تسريع الصوت والانتقال السلس بين القراء.",
+          "descEn": "Gapless playback with adjustable speed and seamless transition between reciters."
+        },
+        {
+          "icon": "pan_tool_rounded",
+          "titleAr": "أدوات التحديد والمشاركة",
+          "titleEn": "Selection & Sharing Tools",
+          "descAr": "تحديد آيات معينة لنسخها أو مشاركتها كبطاقة مصورة بتصميم أنيق.",
+          "descEn": "Select specific ayahs to copy or share as beautifully designed image cards."
+        },
+        {
+          "icon": "library_books_rounded",
+          "titleAr": "تفاسير متعددة وبدون إنترنت",
+          "titleEn": "Offline Multi-Tafseer",
+          "descAr": "تخزين التفاسير محلياً لسرعة الوصول إليها أثناء القراءة بدون إنترنت.",
+          "descEn": "Locally cached Tafseer for instant offline access while reading."
+        }
+      ]
+    },
+    {
+      "icon": "favorite_rounded",
+      "titleAr": "الأذكار والمحتوى اليومي",
+      "titleEn": "Azkar & Daily Content",
+      "features": [
+        {
+          "icon": "wb_sunny_rounded",
+          "titleAr": "الجرعة اليومية",
+          "titleEn": "Daily Dose",
+          "descAr": "محتوى يومي متجدد يشمل (آية اليوم، اسم من أسماء الله الحسنى، وذكر مخصص).",
+          "descEn": "Daily updated content including Aya of the day, Name of Allah, and special Zekr."
+        },
+        {
+          "icon": "ads_click_rounded",
+          "titleAr": "مسبحة ذكية متقدمة",
+          "titleEn": "Smart Rosary",
+          "descAr": "سجل تاريخي للأذكار، اهتزاز تفاعلي، والحفاظ على تقدمك اليومي بسلاسة.",
+          "descEn": "Historical zekr logs, haptic feedback, keeping your daily streaks smoothly."
+        },
+        {
+          "icon": "volunteer_activism_rounded",
+          "titleAr": "أسماء الله الحسنى والأدعية",
+          "titleEn": "Names of Allah & Duas",
+          "descAr": "قسم خاص لعرض وشرح أسماء الله الحسنى مع مكتبة شاملة للأدعية المأثورة.",
+          "descEn": "Dedicated section for Names of Allah and a comprehensive library of Duas."
+        }
+      ]
+    },
+    {
+      "icon": "mosque_rounded",
+      "titleAr": "نظام الصلاة المتقدم",
+      "titleEn": "Advanced Prayer System",
+      "features": [
+        {
+          "icon": "access_time_filled_rounded",
+          "titleAr": "مواقيت دقيقة وتلقائية",
+          "titleEn": "Accurate Auto Times",
+          "descAr": "حسابات فلكية دقيقة مع دعم تلقائي للتوقيت الصيفي (DST).",
+          "descEn": "Exact astronomical calculations with automatic DST adjustments."
+        },
+        {
+          "icon": "check_circle_rounded",
+          "titleAr": "تتبع الصلوات والتذكيرات",
+          "titleEn": "Prayer Tracker & Nudges",
+          "descAr": "تذكير تفاعلي بعد الأذان لتسجيل الصلاة، ونظام ذكي يمنع التسجيل قبل الوقت.",
+          "descEn": "Interactive nudges to log prayers with a smart lock preventing early logging."
+        }
+      ]
+    },
+    {
+      "icon": "video_library_rounded",
+      "titleAr": "المركز التعليمي والمكتبة",
+      "titleEn": "Learning Center & Library",
+      "features": [
+        {
+          "icon": "play_circle_filled_rounded",
+          "titleAr": "المركز المرئي للتعلم",
+          "titleEn": "Video Learning Center",
+          "descAr": "قسم متكامل للبرامج التعليمية والفيديوهات الإسلامية بجودة عالية.",
+          "descEn": "Integrated hub for Islamic educational programs and high-quality videos."
+        },
+        {
+          "icon": "library_books_rounded",
+          "titleAr": "مكتبة الكتب الإسلامية",
+          "titleEn": "Islamic Books Library",
+          "descAr": "تصفح مريح للكتب والمقالات الإسلامية مع حفظ تقدم القراءة.",
+          "descEn": "Comfortable reading for Islamic books and articles with progress tracking."
+        }
+      ]
+    },
+    {
+      "icon": "people_rounded",
+      "titleAr": "المجتمع والمفضلات",
+      "titleEn": "Community & Favorites",
+      "features": [
+        {
+          "icon": "new_releases_rounded",
+          "titleAr": "منشورات متجددة",
+          "titleEn": "Dynamic Posts",
+          "descAr": "تابع أحدث المنشورات الدينية والتأملات الحية من داخل التطبيق.",
+          "descEn": "Follow the latest religious posts and live reflections directly."
+        },
+        {
+          "icon": "star_rate_rounded",
+          "titleAr": "نظام المفضلات والعلامات المرجعية",
+          "titleEn": "Bookmarks & Favorites",
+          "descAr": "احفظ سورك، أدعيتك، وآياتك المفضلة للعودة إليها بضغطة زر.",
+          "descEn": "Save your favorite Surahs, Duas, and Ayahs to access them instantly."
+        }
+      ]
+    },
+    {
+      "icon": "rocket_launch_rounded",
+      "titleAr": "أداء ونظام استثنائي",
+      "titleEn": "Exceptional System",
+      "features": [
+        {
+          "icon": "zoom_in_rounded",
+          "titleAr": "بحث فائق السرعة",
+          "titleEn": "Ultra-Fast Search",
+          "descAr": "ابحث في القرآن، الأذكار، والكتب في أجزاء من الثانية.",
+          "descEn": "Search through Quran, Azkar, and books in milliseconds."
+        },
+        {
+          "icon": "blur_on_rounded",
+          "titleAr": "تصميم زجاجي وتجربة سلسة",
+          "titleEn": "Glassmorphism & Fluidity",
+          "descAr": "واجهة عصرية تعتمد على التدرجات، مُحسنة برمجياً لتقدم تجربة خالية من التقطيع 120FPS.",
+          "descEn": "Modern gradients UI optimized for a jitter-free 120FPS experience."
+        },
+        {
+          "icon": "notifications_active_rounded",
+          "titleAr": "نظام إشعارات مستقل",
+          "titleEn": "Isolated Notifications",
+          "descAr": "منبهات دقيقة للأذان وتذكيرات الصيام بفضل معمارية مخصصة ومستقلة.",
+          "descEn": "Exact alarms for Azan and fasting reminders using an isolated architecture."
+        }
+      ]
+    }
+  ]
+}
+
+
+
